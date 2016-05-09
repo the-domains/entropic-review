@@ -1,0 +1,28 @@
+name: Entropic Review
+favicon: null
+layout_spectrum: 0.5969008817337453
+typography_spectrum: 0.07888430962339044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2386616060975939
+  lightness: 0.8354237244930118
+  saturation: 0.6648258562199771
+  rhythmicContrast: 0.032515390077605844
+purpose: []
